@@ -1,0 +1,236 @@
+
+   body{
+    font-family: 'Merriweather', serif;
+    margin:0;
+    text-align: center;
+    color: white;
+}
+
+
+
+/* MENU BAR */
+
+
+.mountain-img{
+    text-align: center;
+}
+
+
+
+/* TOP CONTAINER */
+
+#top-container{
+
+    background-color:#3b3b4f;
+    text-align: center;
+    padding-top: 3rem;
+
+}
+
+h1{
+  
+    font-family: 'Amatic SC', cursive;
+    color:white;
+  
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h3{
+
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    font-size: 10rem;
+
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    line-height: 2;
+}
+
+.nameClass{
+    font-size: 515%;
+}
+
+
+
+.mainHeadline{
+
+    margin-top:1rem;
+    font-size: 150%;
+    padding: 0% 10%;
+}
+
+.middle-section-text{
+    padding: 1rem 15%;
+}
+
+.middle-section-images{
+   
+    margin-top:1rem;
+    
+    width: 15%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.skill-row{
+    margin-top: 5rem;
+}
+
+/* MIDDLE CONTAINER */
+
+#middle-container{
+
+    background-color: #292C6D;
+    width: 30% auto 30% auto;
+    text-align: center;
+
+}
+
+.usama-img{
+ 
+    padding-top: 3rem;
+    width: 15rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding-bottom: 2rem;
+
+}
+
+.skills{
+    padding-top: 2rem;
+    text-align: center;
+}
+
+/* MY SKILLS */
+
+#my-skills{
+
+    background-color:#3b3b4f;
+    width: 30% auto 30% auto;
+    text-align: center;
+    padding: 0rem 20% 1rem 20%;
+}
+
+/* GET IN TOUCH SECTION */
+
+#getInTouch{
+    text-align: center;
+    background-color:#3b3b4f;
+    padding-bottom: 1rem;
+    
+}
+
+.getInTouch-class{
+
+    color: white;
+    text-decoration: none;
+
+
+}
+
+.getInTouch-class:hover{
+    color:white;
+    font-weight: bold;
+}
+
+/* BOTTOM CONTAINER */
+
+#bottom-container{
+text-align: center;
+background-color: black;
+padding-top:1rem;
+}
+
+.footer-link{
+    text-decoration: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color:white;
+}
+
+
+
+.footer-link:hover{
+
+    color:white;
+    font-weight: bold;
+}
+
+
+
+#workExperience{
+
+    background-color:#3b3b4f;
+    text-align: center;
+    padding: 1rem 15%;
+}
+
+.work-experience-img{
+    padding-top: 4rem;
+    text-align: center;
+    width: 15rem;
+}
+
+
+.company-img{
+
+    margin-top:1rem;
+    width: 15%;
+    text-align: center;
+    margin-bottom: 0.5rem;
+
+}
+
+.button-class{
+    text-decoration: none;
+    color: white;
+}
+
+.button-class:hover{
+    font-weight: bold;
+    font-size: 115%;
+    color: white;
+    padding-bottom: 0;
+}
+
+/* ACHEIVEMENTS */
+
+
+#achievements{
+    background-color:#3b3b4f;
+    text-align: center;
+    padding: 3rem 15% 1rem 15%;
+    
+}
+
+.achievements-img{
+    padding-top: 2rem;
+    text-align: center;
+    width: 5rem;
+
+}
+
+#education{
+
+    background-color:#3b3b4f;
+    text-align: center;
+    padding: 3rem 15% 1rem 15%;
+
+}
+
+.education-img{
+
+    padding-top: 0rem;
+    padding-bottom:1rem;
+    text-align: center;
+    width: 10rem;
+   
+}
+
